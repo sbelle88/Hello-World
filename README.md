@@ -1,2 +1,3 @@
 # Hello-World
 Getting to know Git
+Getting to know Azure and Git then will learn more about creatin testplans, testcases...
